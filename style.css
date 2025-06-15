@@ -1,0 +1,22 @@
+.container-sm {
+    background-color: rgba(218, 218, 218, 0.164);
+
+    border-radius: 6px;
+    align-content: center;
+}
+#labels-area{
+        background-color: rgb(255, 255, 255);
+
+}
+.fa-brands {
+    font-size: larger;
+    color: aliceblue;
+}
+.card-payment-radio {
+    background-color: rgb(54, 54, 54);
+}
+#payment-methods {
+    border-radius: 6px;
+    height: 30px;
+    background-color: rgb(54, 54, 54);
+}
